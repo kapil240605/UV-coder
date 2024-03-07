@@ -1,0 +1,28 @@
+.d-block{
+    height: 18rem;
+    width: 87.5rem;
+}
+
+
+.d-none{
+    color: rgb(23, 240, 70);
+}
+
+.form-control{
+    border: 1px solid blueviolet;
+}
+
+.form-select{
+    border: 1px solid blueviolet; 
+}
+
+.form-label{
+    color: blue;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.imgs{
+    width: 250px;
+    height: 200px;
+}
